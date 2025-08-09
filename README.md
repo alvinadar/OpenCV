@@ -1,2 +1,2 @@
 # OpenCV
-Subject on OpenCV and the implementaiton
+Subject on OpenCV and its implementation
